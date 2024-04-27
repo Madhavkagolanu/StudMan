@@ -1,0 +1,13 @@
+.edit-student-container {
+  max-height: 400px; /* Set the maximum height for the container */
+  overflow-y: auto; /* Enable vertical scrollbar */
+  border: 1px solid #ccc; /* Optional: Add a border for visual clarity */
+  padding: 10px; /* Optional: Add padding for spacing */
+}
+
+.edit-form {
+  max-height: 300px; /* Set the maximum height for the form */
+  overflow-y: auto; /* Enable vertical scrollbar */
+  border: 1px solid #ccc; /* Optional: Add a border for visual clarity */
+  padding: 10px; /* Optional: Add padding for spacing */
+}

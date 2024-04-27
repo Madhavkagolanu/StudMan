@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #ffffff;
+}
+.navbar .navbar-nav .nav-link {
+  color: #000000;
+  font-size: 1.1rem;
+}
+@media screen and (min-width: 768px) {
+  .navbar-brand {
+    margin-right: 0;
+    padding: 0 3rem;
+  }
+  .hero div {
+    width: 50%;
+  }
+  .about-us {
+    width: 50%;
+  }
+  .contact {
+    max-width: 50%;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .navbar .navbar-nav .nav-link {
+    padding: 0.5rem 2rem;
+  }
+  .container {
+    width: 80%;
+  }
+}
